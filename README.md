@@ -1,4 +1,4 @@
-# TeamProfileGenerator
+# EmployeeManagementSystem
 ## Description
 - The motivation of this project was to learn how to integrate a database within a command line interface.
 - Built this project to deepen knowledge on promises, mysql, and inquirer. 
